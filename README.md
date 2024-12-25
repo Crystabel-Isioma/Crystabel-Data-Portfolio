@@ -1,2 +1,3 @@
 # Crystabel-Data-Portfolio
-A dynamic portfolio showcasing real-world data analytics projects with SQL, Power BI, Excel and Tableau. Features interactive dashboards, insightful analyses and practical solution adaptable across industries
+#[Tech funding insights](https://www.kaggle.com/datasets/shivamb/tech-company-fundings-2020-onwards)
+This personal project explores the "Tech Company Fundings" dataset from Kaggle, focusing on uncovering trends and insights into funding patterns, sectors, and investor activities in the global tech landscape using excel
